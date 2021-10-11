@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Toeic</string>
+    <string name="title_text">Toeic</string>
+    <string name="string_out_of_text">Question: 0/0</string>
+    <string name="correct_answer" >correct</string>
+    <string name="incorrect_answer">incorrect</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">NEXT</string>
+    <string name="placeholder">Hello world this is where we are going to add the actual text to be shown</string>
 </resources>
